@@ -23,3 +23,7 @@
 - REPORT
 -- REPORT will announce the X,Y and orientation of the robot.
   
+## Table with map
+
+- By switching to use table_with_map (as commented out in main.rb) enables visual feedback of the table and robot position, when a REPORT command is issued.
+
