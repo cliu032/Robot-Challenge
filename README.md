@@ -15,11 +15,11 @@
 - PLACE X,Y,F
 -- PLACE will put the toy robot on the table in position X,Y and facing NORTH, SOUTH, EAST or WEST.
 - MOVE
-  MOVE will move the toy robot one unit forward in the direction it is currently facing.
+-- MOVE will move the toy robot one unit forward in the direction it is currently facing.
 - LEFT
-  LEFT will rotate the robot 90 degrees counter-clockwise without changing the position of the robot.
-- RIGHT
-  RIGHT will rotate the robot 90 degrees clockwise without changing the position of the robot.
+-- LEFT will rotate the robot 90 degrees counter-clockwise without changing the position of the robot.
+- RIGHT 
+-- RIGHT will rotate the robot 90 degrees clockwise without changing the position of the robot.
 - REPORT
-  REPORT will announce the X,Y and orientation of the robot.
+-- REPORT will announce the X,Y and orientation of the robot.
   
