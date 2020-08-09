@@ -1,4 +1,4 @@
-# Robot Challenge - Certsy
+# Robot Challenge
 
 ## Description
 
